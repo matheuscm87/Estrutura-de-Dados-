@@ -11,7 +11,6 @@ typedef struct {
     int tamanho;
 } Lista;
 
-// Operações da lista
 Lista* criar_lista();
 int lista_vazia(Lista* lista);
 int tamanho_lista(Lista* lista);
